@@ -1,0 +1,1 @@
+This system allows users to sign up, create, and update schedules. Logged-in users can view the schedule, while only admins have the ability to view all schedules.
